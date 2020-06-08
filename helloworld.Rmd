@@ -3,5 +3,4 @@ output:
   pdf_document: default
   html_document: default
 ---
-# makdown
 ## this is a markdown file
