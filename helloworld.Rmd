@@ -1,7 +1,0 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-# markdown
-## this is a markdown file
